@@ -1,0 +1,55 @@
+ Algoritmo da cifra de César(com a cifra padrão de 3 letras):
+
+Entradas:
+
+1. Voce
+2. Carol
+3. Amanda
+4. Juliete
+5. Flamengo
+6. Vacina
+7. Corona
+8. Atividade
+9. Complicada
+10. Dificil
+
+Saídas:
+
+1. Yrfh
+2. Fduro
+3. Dpdqgd
+4. Mxolhwh
+5. Iodphqjr
+6. Ydflqd
+7. Frurqd
+8. Dwlylgdgh
+9. Frpsolfdgd
+10. Glilflo
+
+Algortimo do código de políbio:
+
+Entradas:
+
+1. Voce
+2. Carol
+3. Amanda
+4. Juliete
+5. Flamengo
+6. Vacina
+7. Corona
+8. Atividade
+9. Complicada
+10. Difícil
+
+Saídas:
+
+1. 51351315
+2. 1311423532
+3. 113311341411
+4. 25453224154415
+5. 2132113315342235
+6. 511113243411
+7. 133542353411
+8. 114424512414111415
+9. 13353341322413111411
+10. 14242124132432
